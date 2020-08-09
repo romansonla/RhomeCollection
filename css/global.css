@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Baskervville|Open+Sans&display=swap');
-
-h1, h2 {
-    font-family: 'Baskervville', serif;
-    padding-top: 20px;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+ 
+ h1, h2 {
+  font-family: 'Playfair Display', serif;
+  padding-top: 20px;
+  font-size: 30px;
 }
   
  body {
@@ -21,4 +23,8 @@ h1, h2 {
   
 .d-flex {
     justify-content: center;
+}
+
+footer {
+    padding: 70px;
 }
